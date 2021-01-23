@@ -9,6 +9,9 @@
   <a href="https://www.linkedin.com/in/patrickalphac/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanraj1608/">
   <a/>
+  <a href="https://medium.com/@patrick.collins_58673/">
+    <img src="https://img.shields.io/badge/medium-Medium%20Profile-blue">
+  <a/>
 </p>
     
 ## Check me out on [Twitch](https://www.twitch.tv/patrickalphac) and [YouTube](https://www.youtube.com/channel/UCn-3f8tw_E1jZvhuHatROwA)
