@@ -1,20 +1,12 @@
 <h2> Hi there 👋, I'm Patrick Collins! </h2>
-<p >
-  <a href="https://twitter.com/PatrickAlphaC">
-    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AmanRaj1608">
-   <a/>
-  <a href="https://stackoverflow.com/users/11969592/patrick-collins">
-    <img src="https://img.shields.io/badge/-StackOverflow-f48024?style=flat-square&labelColor=f48024&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/11097431/aman-raj">
-   <a/>
-  <a href="https://medium.com/@patrick.collins_58673/">
-    <img src="https://img.shields.io/badge/medium-Medium%20Profile-blue">
-  <a/>
-</p>
     
 [![Patrick Collins Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrickalphac/)
 [![Alpha Chain YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCn-3f8tw_E1jZvhuHatROwA)
-    
-## Check me out on [Twitch](https://www.twitch.tv/patrickalphac) and [YouTube](https://www.youtube.com/channel/UCn-3f8tw_E1jZvhuHatROwA)
+[![Patrick Collins Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@patrick.collins_58673/)
+[![Patrick Collins Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PatrickAlphaC)
+[![Patrick Collins StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11969592/patrick-collins)
+[![Patrick Collins Twitch](https://img.shields.io/badge/Twitch-6441A4?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/patrickalphac)
+[![Alpha Chain](
 
 I'm an avid Smart Contract/Blockchain Software Engineer, [Chainlink](https://chain.link/) Developer Advocate, and founder and CEO of [Alpha Chain](https://www.alphachain.io/)
 
