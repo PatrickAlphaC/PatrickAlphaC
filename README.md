@@ -6,7 +6,6 @@
 [![Patrick Collins Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PatrickAlphaC)
 [![Patrick Collins StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11969592/patrick-collins)
 [![Patrick Collins Twitch](https://img.shields.io/badge/Twitch-6441A4?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/patrickalphac)
-[![Alpha Chain](
 
 I'm an avid Smart Contract/Blockchain Software Engineer, [Chainlink](https://chain.link/) Developer Advocate, and founder and CEO of [Alpha Chain](https://www.alphachain.io/)
 
