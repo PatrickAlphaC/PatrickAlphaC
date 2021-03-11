@@ -6,13 +6,13 @@
   <a href="https://stackoverflow.com/users/11969592/patrick-collins">
     <img src="https://img.shields.io/badge/-StackOverflow-f48024?style=flat-square&labelColor=f48024&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/11097431/aman-raj">
    <a/>
-  <a href="https://www.linkedin.com/in/patrickalphac/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanraj1608/">
-  <a/>
   <a href="https://medium.com/@patrick.collins_58673/">
     <img src="https://img.shields.io/badge/medium-Medium%20Profile-blue">
   <a/>
 </p>
+    
+    [![Patrick Collins Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrickalphac/)]
+    [![Alpha Chain YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCn-3f8tw_E1jZvhuHatROwA)]
     
 ## Check me out on [Twitch](https://www.twitch.tv/patrickalphac) and [YouTube](https://www.youtube.com/channel/UCn-3f8tw_E1jZvhuHatROwA)
 
