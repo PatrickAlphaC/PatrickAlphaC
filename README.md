@@ -20,4 +20,4 @@ I'm here to help the world learn to code, do great things with data prowess, pyt
 [![Patricks's github stats](https://github-readme-stats.vercel.app/api?username=PatrickAlphaC)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Feel free to reach out on the [Chainlink](https://discord.gg/2YHSAey) or [Alpha Chain](https://discord.gg/jj8wQ9b) discord!
+Feel free to reach out on the [Chainlink](https://discord.gg/2YHSAey) discord!
