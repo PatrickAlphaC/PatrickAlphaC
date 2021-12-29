@@ -26,4 +26,4 @@ Be sure to join the [Chainlink](https://discord.gg/2YHSAey) discord!
 ### Stack Overflow & Stack Exchange Stats
 
 
-<a href="https://stackexchange.com/users/16564631/patrick-collins"><img src="https://stackexchange.com/users/flair/16564631.png" width="500" height="139" alt="profile for Patrick Collins on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Patrick Collins on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+<a href="https://stackexchange.com/users/16564631/patrick-collins"><img src="https://stackexchange.com/users/flair/16564631.png" width="208" height="58" alt="profile for Patrick Collins on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Patrick Collins on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
