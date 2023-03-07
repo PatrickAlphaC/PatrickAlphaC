@@ -20,9 +20,6 @@ I'm here to help the world learn to code, do great things with data prowess, pyt
 [![Patricks's github stats](https://github-readme-stats.vercel.app/api?username=PatrickAlphaC)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Be sure to join the [Chainlink](https://discord.gg/2YHSAey) discord!
-
-
 ### Stack Overflow & Stack Exchange Stats
 
 
