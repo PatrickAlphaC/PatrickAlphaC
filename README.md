@@ -1,6 +1,10 @@
 <h2> Hi there 👋, I'm Patrick Collins! </h2>
 
 🛡️ Co-founder of [Cyfrin](https://www.cyfrin.io/)
+
+Learn smart contracts & solidity here!
+
+[YouTube Playlist](https://www.youtube.com/playlist?list=PL4Rj_WH6yLgWe7TxankiqkrkVKXIwOP42)
     
 [![Patrick Collins Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrickalphac/)
 [![Alpha Chain YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCn-3f8tw_E1jZvhuHatROwA)
