@@ -30,3 +30,8 @@ I'm here to help the world learn to code, do great things with data prowess, pyt
 
 
 <a href="https://stackexchange.com/users/16564631/patrick-collins"><img src="https://stackexchange.com/users/flair/16564631.png" width="208" height="58" alt="profile for Patrick Collins on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Patrick Collins on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
+
+#### YouTube Stats
+
+[![Patrick's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCn-3f8tw_E1jZvhuHatROwA)](https://www.youtube.com/channel/UCn-3f8tw_E1jZvhuHatROwA)
