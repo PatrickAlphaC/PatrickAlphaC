@@ -18,14 +18,7 @@ I'm an avid Smart Contract/Blockchain Software Engineer, Web3 Developer Advocate
 
 I'm here to help the world learn to code, do great things with data prowess, python lover, dance enthusiast, and life enthusiast.
 
-
-
-#### Github Stats 📊
-
-[![Patricks's github stats](https://github-readme-stats.vercel.app/api?username=PatrickAlphaC)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### Stack Overflow & Stack Exchange Stats
+### Stack Overflow & Stack Exchange Stats (Back when people used it lol)
 
 
 <a href="https://stackexchange.com/users/16564631/patrick-collins"><img src="https://stackexchange.com/users/flair/16564631.png" width="208" height="58" alt="profile for Patrick Collins on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Patrick Collins on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
